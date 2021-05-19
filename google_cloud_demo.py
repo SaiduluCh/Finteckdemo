@@ -3,7 +3,7 @@ from google.cloud import vision
 import json
 from oauth2client.client import GoogleCredentials
 from google.cloud.vision import AnnotateImageResponse
-import pandas as pd
+
 from re import match
 import re
 import cv2

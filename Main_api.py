@@ -1,8 +1,5 @@
-
 import cv2
-import datetime
 import json
-import numpy as np
 import os
 import requests
 import base64
@@ -11,7 +8,7 @@ from flask import Flask, request, jsonify, Response, render_template
 from PIL import Image
 from io import BytesIO
 
-from predict import imgtodata
+from google_cloud_demo import ocr
 
 app = Flask(__name__)
 
@@ -40,7 +37,7 @@ def home_page():
             image_result = open('deer_decode.jpg', 'wb')  
             image_result.write(file)
             file_path = 'deer_decode.jpg'
-            extracted_text = imgtodata(file_path)
+            extracted_text = ocr(file_path)
             return jsonify(extracted_text)
             
     elif request.method == 'GET':

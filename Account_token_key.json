@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cellular-way-313210",
+  "private_key_id": "00b22a6670753ee141c9e0490e265bb00a8d0ba8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1sq6gNf7CdZHm\ndtpXRNRcQFV3HmDa7AxtEiiHNgB47QBsqfXhJozK2o7rjc7NkThHj1hBzrgxWfUM\nE8LImwOQx5Ywd4jMNeaic3MNOYfw/C0tpGPgK8cq82zCjvEAbHyGwalECrXllcI/\nUV0YiEg5SyV7b/e/rzu47SXMarJBurQkxwPhj3Zxim6xykSAeiVncy+CPlSes2/h\nkNsJyszAzwZLZyxWYX1OO+aj+hLzO7tEogq6BQaGKxkNakJ6I3uieqbBV20+hBWU\nUMLLyzWw6qS5pXqrELXaj9fEdE8V7m3louWjwVg2B8XMCZeXZd8ZDCOSAAp4Y4qA\nAB30TRJNAgMBAAECggEAU5t7cDw4VKm976L8GFETOLnfudbQMZyRoTTMUl9ee0Zv\nPhE9E5PmEEfeoPRZV0097OvAbFOffRIMSLjlFeMCkoHMkdPHLlSVImZmaAzziUe4\n0DpHPPVYCeMGRkZ5Dj1dVbLSXP1istilD/a0FGBNf5OdFT4x7dHH9PGmxXfJO6XT\nlVXMG3cLs8vC2QWoM1DXMLezTsxJkP1wYgk4iggFUMFzYxWihUUqoa6relgRXloy\n8R3fMgPoTjvZdZqnd0OD27JW4WxI1FlOWQN1VB5NO4euPhkPTu3LHStAcDb8W1iR\nOJcYLnzBlriL0c/jm8/hBPwh3oXuu3OQA5cBCk4KXwKBgQDjAAMwcWgOA2BO8HLm\nDXXGy0ycqWr8gux4M2I3qQVmGy2p29zwKNUhAuSLHFofMnXT4pUwD11hkt3bap74\neccmgK36/qgi3+riMbuXT2B9/22k1oxnm1v+gnnLMzLTEugEiWS436Nt08m29zhu\n+BYDA1M9Phaj2rvtHClgRWvOnwKBgQDM6RNBE4DPFeMiFlrVt2Z2+AL4Z91/i9ho\nyegShMxRDGrurR6OCeNxKEzVgSsjBU346QPSy0KrKtx5j30xhzav08VOWEKnbON7\ng4nwsLD6emQOcYZO3vyFO8n9lIzZfqFnb6vvmyUeLPbIleyUOCPxa0LIye/ITfct\nv8zwcexzkwKBgQDiyCZnhUURiunys2H218esfXrioJdUAnDAfYVIWkIcilaKdi86\nd3DF9B/josWemUkCEEI/q3n9ez7OcKy1TORbYP9v3G6ZuN7ucAUb259pAYDGx9mp\nwJqdoDiRe2rxWNgXgDPyRur9VDMX6dClfJBxHidQ7fCsbmCFODdWCMT1vQKBgQDG\nRpXp92xBdeVVW5pDiHZukeeV5DMRMwmRxCV6neNyXXivQPb67BiXqy5Fvfo2pfBf\n9WFMvH/jTtMOEUlL/pFtK5aVC5Rbm2K3Zn24V9C4XmupCjKy6NQiO8tlQzPTVNPr\nWcReUpplC480YtYMShKFjYuO7M/H26FdNGWjGCl7XwKBgEovIdKTAvxIaAd/U+aZ\n+pJ6IpLVrnI1HDvrAxMn9KC249gOWuJvrfxm/zmrARz12VA4/m3oj+S2t4qgbtaX\nrLmwvpzFVbqRIOVpBYexHXrg+fMzb/mxskpyzg8g+QkeXu9oo7/YUEHUixwTLMsW\nsdxoBCP3U7IxRVmDUA0z3mmW\n-----END PRIVATE KEY-----\n",
+  "client_email": "sai-vision-api@cellular-way-313210.iam.gserviceaccount.com",
+  "client_id": "103137122311934365207",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sai-vision-api%40cellular-way-313210.iam.gserviceaccount.com"
+}
